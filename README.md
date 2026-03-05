@@ -49,6 +49,8 @@ Slicers were added to allow filtering by:
 - Gender  
 - Age Group  
 - Month
+**Dashboard preview:**
+![Dashboard](screenshots/Dashboard_Retail_Sales.png)
 # Tools Used
 - Microsoft Excel  
 - Pivot Tables  
